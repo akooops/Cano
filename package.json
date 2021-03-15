@@ -1,0 +1,27 @@
+{
+  "name": "cano",
+  "version": "1.0.0",
+  "description": "Cano is a free to use 2d game engine for the web. We ll support other platforms as soon as we can.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyoctopus/Cano.git"
+  },
+  "keywords": [
+    "game",
+    "engine",
+    "game",
+    "2d",
+    "3d",
+    "graphics"
+  ],
+  "author": "Ilyes Azzi (ilyoctopus)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyoctopus/Cano/issues"
+  },
+  "homepage": "https://github.com/ilyoctopus/Cano#readme"
+}
